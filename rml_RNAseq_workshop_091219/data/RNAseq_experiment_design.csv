@@ -1,0 +1,10 @@
+replicate,condition,sample_name
+sb01_ph76_C,ph76_C,ph 7.6 - 1
+sb02_ph76_C,ph76_C,ph 7.6 - 2
+sb03_ph76_C,ph76_C,ph 7.6 - 3
+sb04_ph68_C,ph68_C,pH 6.8 - 1
+sb05_ph68_C,ph68_C,pH 6.8 - 2
+sb06_ph68_C,ph68_C,pH 6.8 - 3
+sb10_ph68_N,ph68_N,pH 6.8 + NO - 1 
+sb11_ph68_N,ph68_N,pH 6.8 + NO - 2
+sb12_ph68_N,ph68_N,pH 6.8 + NO - 3
